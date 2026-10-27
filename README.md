@@ -87,3 +87,5 @@ Pookies is the bakery I co-founded in 2023. During my software engineering inter
 </picture>
 
 **Email** [renevincentcosme@gmail.com](mailto:renevincentcosme@gmail.com) · **LinkedIn** [in/rene-vincent-cosme](https://www.linkedin.com/in/rene-vincent-cosme) · **GitHub** [RVBCosme](https://github.com/RVBCosme)
+
+**NOTE**: **Hackathon Account**
